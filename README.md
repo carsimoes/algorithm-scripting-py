@@ -1,1 +1,4 @@
-# algorithm-scripting-py
+# Algorithms in Python
+## Just training:
+
+- Count Unique Words
